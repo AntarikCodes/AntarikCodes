@@ -7,7 +7,7 @@ import pageEvents.loginPageEvents;
 
 import java.io.IOException;
 
-public class Invalidlogin extends BaseClass {
+public class invalidLogin extends BaseClass {
     loginPageEvents loginPage = new loginPageEvents();
 
     @Test
